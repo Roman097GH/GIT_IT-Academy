@@ -18,5 +18,10 @@ namespace GIT_IT
         {
 
         }
+
+        public void Move()
+        {
+
+        }
     }
 }
